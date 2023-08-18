@@ -9,7 +9,6 @@
 		<client>site</client>
 		<version>1.0.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.buchs.dk/plg_content_insertimage/releases/plg_content_insertimage-1.0.1.zip</downloadurl>
 			<downloadsource type="full" format="gz">https://updates.buchs.dk/plg_content_insertimage/releases/plg_content_insertimage-1.0.1.tar.gz</downloadsource>
 		</downloads>
 		<tags>
@@ -19,5 +18,8 @@
 		<maintainerurl>https://buchs.dk/</maintainerurl>
 		<targetplatform name="joomla" version="4.[0123]" />
 		<php_minimum>7.4</php_minimum>
+		<sha256>bdfbb8c26ecff5f0feebbd775495ec694f3b43aefc1aa548b5f20c6ab0cca843</sha265>
+		<sha384>ac633e55246351eba3ea221f5f7f6ee9dc64f6cfa73561849fab68c6fdc9ea62d30d6e37809b163b0618b650aaa6fc8e</sha384>
+		<sha512>2e02262212f9afc7235e0cc3d28505879057c85c7bdb3610645f5c605a30e733ad41e8d9a018c822b5ad054da4939d269451f717955efb91e8d41ac100c1c12c</sha512>
 	</update>
 </updates>
